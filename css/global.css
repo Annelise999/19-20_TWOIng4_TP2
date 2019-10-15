@@ -235,19 +235,19 @@ nav a.history { background: url("../img/icon/history.png") no-repeat 0.1em; }
 
 @media screen and (max-width: 1800px){
     body {
-        font-size: 1.05em }
+        font-size: 1.05em; }
 
 }
 
 @media screen and (max-width: 850px){
     body{
-        font-size: 0.85em }
+        font-size: 0.85em; }
 
 }
 
 @media screen and (max-width: 768px){
     body {
-        font-size: 0.7em}
+        font-size: 0.7em;}
 
 }
 
